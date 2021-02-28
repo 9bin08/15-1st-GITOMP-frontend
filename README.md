@@ -91,17 +91,19 @@ _-_ **MainPage onClick**
 
 ---
 
-2. 문병곤
 
+2. 문병곤
 - Role : Team Member
 - Position : Front-end
 - Stack : React / Sass / Router
 - Works : ( 작업한 페이지 구현 )
 
-1.
-2.
-3.
-4.
+[메인페이지]
+
+- 메인 페이지 애니메이션 및 기능 구현
+- swiper 라이브러리를 통해 슬라이드 애니메이션 구현
+- 백엔드 Api를 가져와 앨범 섹션의 슬라이드에 구현
+
 
 ---
 
